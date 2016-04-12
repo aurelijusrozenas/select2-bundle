@@ -1,5 +1,5 @@
 {
-    "name": "pinano/select2-bundle",
+    "name": "auro/select2-bundle",
     "type": "symfony-bundle",
     "description": "Symfony2 bundle for wrapping the famous select2 jquery plugin by @ivaynberg",
     "keywords": ["jquery", "select2", "bundle"],
